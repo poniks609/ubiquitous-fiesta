@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "axios": "^1.12.2",
     "uniq": "^1.0.1"
   }
 }
